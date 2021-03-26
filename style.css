@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+title{
+    margin-bottom: 153px;
+}
+h1{
+    color: rgba(255, 0, 29, 0.11);
+    font-size: 36px;
+    font-family: fantasy, monospace;
+    margin-bottom: 10px;
+}
+h2{
+    color: rgba(3, 10, 0, 0.73);
+    font-size: 25;
+    
+}
+div {
+    background-color: #fha2a5;
+    box-sizing: inherit;
+    visibility: visible;
+    background: 65px;
+}
+
+div {
+    background-color: #555;
+}
+
+    
+
